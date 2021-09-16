@@ -39,7 +39,7 @@ Most projects will only face those four problems, which can all be fixed in a go
 
 ## Which files should be gitignored?
 
-If you're using Zero-Installs:
+If you're using [Zero-Installs](/features/zero-installs):
 
 ```gitignore
 .yarn/*
